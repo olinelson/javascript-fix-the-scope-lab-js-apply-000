@@ -22,7 +22,7 @@ function add2(n) {
   
 }
 
-var theFunk = funkyFunction(string)
+var theFunk = funkyFunction
 
 function funkyFunction(){
   return function(){
